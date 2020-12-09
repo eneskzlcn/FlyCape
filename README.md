@@ -1,1 +1,1 @@
-![Alt Text](https://eneskzlcn.github.io/FlyCape/flycape.gif)
+![](https://eneskzlcn.github.io/FlyCape/flyCape.gif)
